@@ -15,6 +15,8 @@ Please review the 2 files in the folder:
 
 **3. Some conclusions (captured from my report)**
 
+![image](https://github.com/user-attachments/assets/229a4404-eea6-4908-9c7a-81df6a98a89d)
+
 
 ![image](https://github.com/user-attachments/assets/a88e1ed7-5f3a-48ae-83d9-afc681bdae21)
 
