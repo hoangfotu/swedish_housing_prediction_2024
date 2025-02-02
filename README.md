@@ -10,18 +10,5 @@ Please review the 2 files in the folder:
 - Project Report: my report after doing the Analysis and building the prediction model
 
 **2. Dataset: 3 csv**
-- We have HousingAssociation.csv and AnnualReport.csv in this folder
-- Apartment.csv in this Drive link: https://drive.google.com/file/d/1IgLu4qd5zFfEdda5QqT89sRpPBHvsbtp/view?usp=sharing
-
-**3. Some conclusions (captured from my report)**
-
-![image](https://github.com/user-attachments/assets/229a4404-eea6-4908-9c7a-81df6a98a89d)
-
-
-![image](https://github.com/user-attachments/assets/a88e1ed7-5f3a-48ae-83d9-afc681bdae21)
-
-![image](https://github.com/user-attachments/assets/6d05755f-3b85-49f9-bcfc-b433cb7c8123)
-
-![image](https://github.com/user-attachments/assets/b088456d-819e-4c2c-aae1-0e19aa4838b6)
-
-![image](https://github.com/user-attachments/assets/db6da967-6ff9-41f0-abaa-cb8a7b32fdd4)
+- We have HousingAssociation.csv, AnnualReport.csv & Apartment.csv
+- The dataset could not be disclosed
